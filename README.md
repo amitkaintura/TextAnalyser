@@ -1,5 +1,5 @@
 # TextAnalyser
-A webapp created with the help of Python and Django to perform various operations on data based on user request.
+A webapp created with the help of Python and Django to perform various operations on data based on user input.
 
 ![ ](textanalyser/images/Screenshot70.png)
 
