@@ -6,31 +6,29 @@ A webapp created with the help of Python and Django to perform various operation
 ![ ](textanalyser/images/Screenshot71.png)
 
 ## Table of Contents
-### INTRODUCTION<br>
-### TECHNOLOGIES<br>
-### SETUP<br>
-### FEATURES<br>
-### SOURCES<br>
+### 1. INTRODUCTION<br>
+### 2. TECHNOLOGIES<br>
+### 3. SETUP<br>
+### 4. FEATURES<br>
+### 5. SOURCES<br>
 
-### INRODUCTION<br>
+### 1. INRODUCTION<br>
 #### TextAnalyser is a webapp which performs various operation on data in backend. It can perform case convesion , counting the no. of characters, no. removal and more. User just have to submit the data and select required operation. then TextAnalyser process the task in backend  and show the result.
 
-
-
-### TECHNOLOGIES
+### 2. TECHNOLOGIES
 #### 1. Python 3.8<br>
 #### 2. Django 3.0.8<br>
 
-### SETUP
+### 3. SETUP
 #### 1. pip install python
 #### 2. pip install django
 
-### FEATURES
+### 4. FEATURES
 #### 1. TextAnalyser can perform various operation on data.<br>
 #### 2. It can swap text case, remove the no. from text, counting the no.of characters etc.<br>
 #### 3. You can perform more than one operation together.<br>
 
-### SOURCES
+### 5. SOURCES
 #### This project is inspired from code with harry textutils project.<br>
 ### I have made several modifications into it.
 #### 1. Changes the directory structure, means created a seperate app. Now we have two files one is textanalyser, which contains project settings and configurations and another is app file which contains our web application files(means templates, views ,urls etc.).
