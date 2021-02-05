@@ -13,7 +13,7 @@ A webapp created with the help of Python and Django to perform various operation
 ### 5. SOURCES<br>
 
 ### 1. INRODUCTION<br>
-#### TextAnalyser is a webapp which performs various operation on data in backend. It can perform case convesion , counting the no. of characters, no. removal and more. User just have to submit the data and select required operation. then TextAnalyser process the task in backend  and show the result.
+#### TextAnalyser is a webapp which performs various operation on data in backend. It can perform case conversion , counting the no. of characters, no. removal and more. User just have to submit the data and select required operation. then TextAnalyser process the task in backend  and show the result.
 
 ### 2. TECHNOLOGIES
 #### 1. Python 3.8<br>
